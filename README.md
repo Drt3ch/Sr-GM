@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Sr-GM
+- 👀 I’m interested in learning about C++, backend, database and cibersecurity
